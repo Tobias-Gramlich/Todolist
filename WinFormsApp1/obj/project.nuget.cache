@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tihq3Fi2PO0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tgramlich\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\tgramlich\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
