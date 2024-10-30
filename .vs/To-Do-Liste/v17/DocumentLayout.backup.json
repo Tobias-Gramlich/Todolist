@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6CC7E3D9-D74A-4D80-BC2C-21A61FE9E585}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\to-do-overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC7E3D9-D74A-4D80-BC2C-21A61FE9E585}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\tgramlich\\desktop\\s1.p1\\to-do-list\\winformsapp1\\to-do-overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6CC7E3D9-D74A-4D80-BC2C-21A61FE9E585}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\winformsapp1\\to-do-overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6CC7E3D9-D74A-4D80-BC2C-21A61FE9E585}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\to-do-overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "To-Do-Overlay.cs [Entwurf]",
+              "Title": "To-Do-Overlay.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\To-Do-Overlay.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\To-Do-Overlay.cs",
-              "ToolTip": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\To-Do-Overlay.cs [Entwurf]*",
-              "RelativeToolTip": "WinFormsApp1\\To-Do-Overlay.cs [Entwurf]*",
+              "ToolTip": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\To-Do-Overlay.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\To-Do-Overlay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T09:52:49.06Z",
-              "EditorCaption": " [Entwurf]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -38,9 +38,9 @@
               "Title": "To-Do-Overlay.cs",
               "DocumentMoniker": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\To-Do-Overlay.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\To-Do-Overlay.cs",
-              "ToolTip": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\To-Do-Overlay.cs*",
-              "RelativeToolTip": "WinFormsApp1\\To-Do-Overlay.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tgramlich\\Desktop\\S1.P1\\To-Do-List\\WinFormsApp1\\To-Do-Overlay.cs",
+              "RelativeToolTip": "WinFormsApp1\\To-Do-Overlay.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T12:08:01.694Z",
               "EditorCaption": ""
