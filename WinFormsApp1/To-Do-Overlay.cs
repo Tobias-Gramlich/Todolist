@@ -1,7 +1,4 @@
 using System.Data.SQLite;
-using System.Data;
-using System.Data.SqlClient;
-using System.Data.SqlTypes;
 
 namespace WinFormsApp1
 {
@@ -72,7 +69,7 @@ namespace WinFormsApp1
             {
                 string col2 = reader.GetString(1);
 
-                if (col2 == RemoveName.Text) 
+                if (col2 == RemoveName.Text)
                 {
                     string col3 = reader.GetString(2);
                     string col4 = reader.GetString(3);
