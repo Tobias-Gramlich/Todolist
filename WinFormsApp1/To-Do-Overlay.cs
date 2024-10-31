@@ -5,7 +5,6 @@ namespace WinFormsApp1
     public partial class Overlay : Form
     {
 
-
         public Overlay()
         {
             InitializeComponent();
@@ -26,7 +25,6 @@ namespace WinFormsApp1
 
             while (reader.Read())
             {
-                int col1 = reader.GetInt32(0);
                 string col2 = reader.GetString(1);
                 string col3 = reader.GetString(2);
                 string col4 = reader.GetString(3);
